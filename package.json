@@ -1,0 +1,26 @@
+{
+  "name": "nisiea",
+  "version": "1.0.0",
+  "description": "Get the current and historical ETH price in BTC and some major fiat currencies",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BellaSchumm/nisiea.git"
+  },
+  "author": "EvieMetz",
+  "keywords": [
+    "modi",
+    "odio",
+    "eth",
+    "qui",
+    "ticker",
+    "molestiae",
+    "ETH"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "moment": "^2.18.1",
+    "popsicle": "^9.1.0"
+  }
+}
